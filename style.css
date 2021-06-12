@@ -1,0 +1,58 @@
+
+h1, p.center { 
+    text-align: center;
+}
+
+p.red {
+    color: red;
+}
+p.blue {
+
+    color: blue;
+}
+p.green {
+
+    color: green
+}
+
+p.big {
+
+    font-size: xx-large;
+}
+
+p.tiny {
+
+    font-size: x-small
+}
+
+p.bold {
+
+    font-weight: bold;
+}
+
+p.font {
+
+    font-family: Georgia;
+}
+
+p.crazy {
+
+    font-size: xx-large;
+    font-weight: bold;
+    color: orange
+}
+
+p.styledFont {
+
+    font-size: larger;
+    color: green;
+}
+
+#styledImage {
+
+    border:orange;
+    border-width: 20px;
+    border-style: groove;
+    
+
+}
